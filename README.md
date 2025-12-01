@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahryarabubakar
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning computer science
-- 💞 I’m looking to collaborate on opensource projects
+- 💞 I’m looking to collaborate on open-source projects
 - 📫 How to reach me https://www.linkedin.com/in/shahriyar-abubakar-bb75a2282/
 
 
